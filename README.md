@@ -1,3 +1,3 @@
-# speech_emotion_recognition_chinese
+# speech_emotion_recognition_chinese（pytorch）
 本项目是分别基于CNN,LSTM,transformer+cnn的中文语音情感识别，数据集用的是CASIA,此数据集是付费数据集故不公开。
 现在先分享可以跑动的代码，后续会讲讲解三个模型细节以及继续优化
